@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Machine Learning Engineer based in London. 
+
+Passionate about LLMs, I enjoy building agentic LLMs and continuously seek opportunities to enhance my skills in machine learning.
+
